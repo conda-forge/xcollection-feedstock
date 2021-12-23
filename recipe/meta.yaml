@@ -38,9 +38,13 @@ about:
   home: https://github.com/NCAR/xcollection
   summary: Extends xarray's data model to be able to handle a dictionary of xarray datasets.
   dev_url: https://github.com/NCAR/xcollection
+  docs_url: https://xcollection.readthedocs.io
   license: Apache-2.0
   license_file: LICENSE
 
 extra:
   recipe-maintainers:
     - andersy005
+    - jukent
+    - kmpaul
+    - mgrover1
